@@ -1,0 +1,65 @@
+{
+  "audit_date_utc": "2026-10-08",
+  "site": "AURA Audio",
+  "source_commit": "acb80a3b9221ebde1ec168462d2443cd884731b7",
+  "saved_version": 2,
+  "published_source_commit_verified": true,
+  "site_owned_source_checks": {
+    "unsplash_reference_matches": 0,
+    "external_image_urls": 0,
+    "external_font_script_stylesheet_dependencies": 0,
+    "missing_local_resource_files": 0,
+    "live_browser_network_capture_performed": false
+  },
+  "scope": "Current working files matched the successfully published version. Git history, platform-injected resources and visual-source similarity were not audited.",
+  "public_files": [
+    {
+      "path": "dist/app.js",
+      "bytes": 11225,
+      "sha256": "54e1c3fb261b8e0bcd9fc8624e2f74bd933d9cb5da4cb20c4208eb09a1812f38"
+    },
+    {
+      "path": "dist/assets/collection.png",
+      "bytes": 2355170,
+      "sha256": "6c3f7029097c427aa806aff05f0dd701dc1cf92bb372e4427b9ee3d591c043b4",
+      "dimensions_px": [
+        2172,
+        724
+      ],
+      "text_metadata_keys": [],
+      "source": "Generated for this project; generation brief in image-prompts.json"
+    },
+    {
+      "path": "dist/assets/hero.png",
+      "bytes": 1425823,
+      "sha256": "7e458166ad3183a8c194c80e626f519905692739073e6feaf473a294563686d7",
+      "dimensions_px": [
+        1536,
+        1024
+      ],
+      "text_metadata_keys": [],
+      "source": "Generated for this project; generation brief in image-prompts.json"
+    },
+    {
+      "path": "dist/assets/lifestyle.png",
+      "bytes": 2598523,
+      "sha256": "b3516297db08f35b9fb0649766ba76b80602e993d45533e1138d8025cd4ad662",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "text_metadata_keys": [],
+      "source": "Generated for this project; generation brief in image-prompts.json"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 14034,
+      "sha256": "646ebd02636216b8ae5dfd8036087f5ed4b9174ed59faae13020d179bcdbc89c"
+    },
+    {
+      "path": "dist/styles.css",
+      "bytes": 29030,
+      "sha256": "00ac0c22d103d55903ef107999a027df2832458851ee4de407a5679e488e4438"
+    }
+  ]
+}
